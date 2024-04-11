@@ -9,3 +9,7 @@ Feel free to used it or take as an inspiration for your own projects.
 
 <h3 align="left">📭 Connect with me:</h3>
 You can send me a message in <a href="www.linkedin.com/in/jnorambu" target="blank">Linkedin</a> or by email at javier.norambuenal*sansano.usm.cl ( replace the * by the @ ).
+
+
+<h3 align="left">📔 My blog/diary:</h3>
+I'm still trying to figure out what to put here, but here's <a href="https://javinoram.github.io/" target="blank">my page</a>
