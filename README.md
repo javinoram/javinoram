@@ -13,3 +13,28 @@ You can send me a message in <a href="www.linkedin.com/in/jnorambu" target="blan
 
 <h3 align="left">📔 My blog/diary:</h3>
 I'm still trying to figure out what to put here, but here's <a href="https://javinoram.github.io/" target="blank">my page</a>
+
+
+<h3 align="left">⛩️ My Proyects</h3>
+<a href="https://github.com/javinoram/VqePy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=VqePy&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/HandWriting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=HandWriting&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/PlanetarianEvents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=PlanetarianEvents&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/ChileanWeatherCheck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=ChileanWeatherCheck&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/TheRoyalGameOfUr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=TheRoyalGameOfUr&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/TensorInterface">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=TensorInterface&theme=dark" />
+</a>
+<a href="https://github.com/javinoram/SpinSimulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=SpinSimulation&theme=dark" />
+</a>
+
