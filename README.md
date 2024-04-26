@@ -28,9 +28,6 @@ I'm still trying to figure out what to put here, but here's <a href="https://jav
 <a href="https://github.com/javinoram/TheRoyalGameOfUr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=TheRoyalGameOfUr&theme=dark" />
 </a>
-<a href="https://github.com/javinoram/TensorInterface">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=TensorInterface&theme=dark" />
-</a>
 <a href="https://github.com/javinoram/SpinSimulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=SpinSimulation&theme=dark" />
 </a>
