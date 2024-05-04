@@ -22,7 +22,7 @@ I'm still trying to figure out what to put here, but here's <a href="https://jav
 <a href="https://github.com/javinoram/HandWriting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=HandWriting&theme=dark" />
 </a>
-<a href="https://github.com/javinoram/ChileanWeatherCheck">
+<a href="https://github.com/javinoram/WeatherCheck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=ChileanWeatherCheck&theme=dark" />
 </a>
 <a href="https://github.com/javinoram/TheRoyalGameOfUr">
