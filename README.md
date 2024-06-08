@@ -33,12 +33,13 @@ I'm still trying to figure out what to put here, but here's <a href="https://jav
 <a href="https://github.com/javinoram/VqePy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=VqePy&theme=dark" />
 </a>
-<a href="https://github.com/javinoram/RamseyNumbers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=RamseyNumbers&theme=dark" />
-</a>
 <a href="https://github.com/javinoram/GroundStatePredictor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=GroundStatePredictor&theme=dark" />
 </a>
 <a href="https://github.com/javinoram/SpinSimulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=SpinSimulation&theme=dark" />
 </a>
+<a href="https://github.com/javinoram/QCSimulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javinoram&repo=QCSimulator&theme=dark" />
+</a>
+
