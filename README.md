@@ -4,9 +4,9 @@
 <img width="400px" src="./assets/penguins.jpg#gh-light-mode-only" title="penguins"/>
 <img width="400px" src="./assets/penguins.jpg#gh-dark-mode-only" title="penguins"/>
 </p>
-(The image is not mine, I taked from the ukraine antartic program X account)
+(The image is not mine, I took from the "ukraine antartic program" X's account)
 
-Hello there, I'm Javier. Just a chilean guy that like to code physics problems (related to spin models) and try to get into a glaciology program.
+Hello there, I'm Javier. Just a chilean guy that like to code physics problems (related to spin models) and tries to get into a glaciology program.
 
 ## Projects
 - [VqePy](https://github.com/javinoram/VqePy): Python library that implement a interface to construct spin model representantions and execute variational quantum algorithms.
