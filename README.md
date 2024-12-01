@@ -5,10 +5,13 @@
 <img width="400px" src="./assets/penguins.jpg#gh-dark-mode-only" title="penguins"/>
 </p>
 (The image is not mine, I took from the "ukraine antartic program" X's account)
+Hello there, I'm Javier. Just a chilean guy that like to study spin system and do software from time to time.
 
-Hello there, I'm Javier. Just a chilean guy that like to code physics problems (related to spin models) and tries to get into a glaciology program.
+Working at INACH and studying a glaciology master degree.
 
-## Projects
+You can contact me sending an email to javier.norambuenal(*)sansano.usm.cl (replace * by @).
+
+## Little projects
 - [VqePy](https://github.com/javinoram/VqePy): Python library that implement a interface to construct spin model representantions and execute variational quantum algorithms.
   - The available models are Molecules, Fermi-Hubbard and spin models.
   - The available methods are VQE.
