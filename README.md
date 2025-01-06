@@ -1,10 +1,10 @@
 ## About me
 
 <p align="center">
-<img width="400px" src="./assets/penguins.jpg#gh-light-mode-only" title="penguins"/>
-<img width="400px" src="./assets/penguins.jpg#gh-dark-mode-only" title="penguins"/>
+<img width="400px" src="./assets/rust-go-zig.jpg#gh-light-mode-only" title="love"/>
+<img width="400px" src="./assets/rust-go-zig.jpg#gh-dark-mode-only" title="love"/>
 </p>
-(The image is not mine, I took from the "ukraine antartic program" X's account)
+(The image is not mine, I took from some profile on X)
 
 Hello there, I'm Javier. Just a chilean guy that like to study spin system and do software from time to time.
 
