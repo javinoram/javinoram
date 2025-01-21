@@ -1,10 +1,11 @@
 ## About me
-
-<p align="center">
-<img width="400px" src="./assets/rust-go-zig.jpg#gh-light-mode-only" title="love"/>
-<img width="400px" src="./assets/rust-go-zig.jpg#gh-dark-mode-only" title="love"/>
-</p>
-(The image is not mine, I took from some profile on X)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=javinoram&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/javinoram"
+  width="600"
+  height="300"
+/>
+</a>
 
 Hello there, I'm Javier. Just a chilean guy that like to study spin system and do software from time to time.
 
