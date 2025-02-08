@@ -1,13 +1,16 @@
 ## About me
-<div>
+<p align="center">
   <img
   src="assets/chileanspirit.jpg"
-  width="600"
+  width="300"
   height="300"
   />
-</div>
+</p>
 
-Hello there, I'm Javier. Just a chilean guy that like to study spin system and do software from time to time.
+Hello there, I'm Javier. Just a chilean guy 🇨🇱, my degree say that im a software engineer but 
+I also like to study spin system.
+
+Most of the time, my codes are in python, js/ts, julia, rust and go.
 
 Currently:
 1. Working at the chilean antarctic institute.
