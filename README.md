@@ -17,4 +17,4 @@ Currently:
 2. Studying a glaciology master degree in the university of Magallanes.
 3. Working as a web cordination at IGSEGG.
 
-You can contact me sending an email to javier.norambuenal(*)sansano.usm.cl (replace * by @).
+You can contact me sending an email to j.norambuena(*)nodoantartico.cl (replace * by @).
