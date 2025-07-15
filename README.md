@@ -8,9 +8,9 @@
 </p>
 
 Hello there, I'm Javier. Just a chilean guy 🇨🇱, my degree say that im a software engineer but 
-I also like to study spin system.
+I also like to study other things.
 
-Most of the time, my codes are in python, js/ts, julia, rust and go.
+Most of the time, my codes are in python, js/ts, julia, rust.
 
 Currently:
 1. Working at the chilean antarctic institute.
